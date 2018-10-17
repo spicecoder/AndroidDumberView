@@ -1,5 +1,4 @@
-Court Counter Sample App
-===================================
+Court Counter Sample App- Modified to bring MVC implementaton on Android ; Ref :https://pattern1sentence.wordpress.com/2018/10/17/android-on-making-the-view-dumber/===================================
 
 Keeps track of basketball scores for two teams. Used in the Udacity Android for Beginners course.
 
