@@ -1,7 +1,7 @@
 
 # AndroidDumberView
 =======
-Court Counter Sample App- Modified to bring MVC implementaton on Android ; Ref :https://pattern1sentence.wordpress.com/2018/10/17/android-on-making-the-view-dumber/===================================
+Court Counter Sample App- Modified to bring MVC implementaton on Android ; Ref :https://pattern1sentence.wordpress.com/2018/10/17/android-on-making-the-view-dumber
 I have refactored the App to make the view a fully independent Singleton  class out side the Activity with the code to locate or set values to display Text fields etc ; Also I have brought counting rules as well into another Singleton independent class outside the Activity.By doing this I achieve much more cleaner dynamics in line with MVC .
 
 
